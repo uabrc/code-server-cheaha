@@ -1,0 +1,8 @@
+---
+name: Code Server
+category: Interactive Apps
+subcategory: Servers
+role: batch_connect
+description: "This app will launch a [VS Code] server using [Code Server] on the [Cheaha]\r\ncluster.\r\n\r\n[VS
+  Code]: https://code.visualstudio.com/\r\n[Code Server]: https://coder.com/\r\n[Cheaha
+  cluster]: https://docs.uabgrid.uab.edu/wiki/cheaha\r\n"
